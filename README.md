@@ -96,7 +96,7 @@ The project provided accurate predictions on whether an aircraft engine needs ma
 
 You can view the live app here:
 
-    Streamlit Cloud: Streamlit App
+    Streamlit : (https://youtu.be/QxJNIP93g3I)
     
 
 License
