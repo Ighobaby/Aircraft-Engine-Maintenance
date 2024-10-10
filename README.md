@@ -16,7 +16,6 @@ The model was developed using a Random Forest algorithm and deployed using **Str
 - [Model](#model)
 - [Deployment](#deployment)
 - [Results](#results)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
